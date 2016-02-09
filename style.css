@@ -28,21 +28,23 @@ h3 {
         color:#78909c; 
         font-variant: small-caps;
         font-size: 25px; 
+        margin-left: 5%;
+        margin-right: 5%;
 }
 
 p {
         font-size: 17px;
         font-family: Garamond;
         color: #263238;
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
 }
 
 ul {
         font-size: 15px;
         font-family: Garamond;
         color: #263238;
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
 }
 
