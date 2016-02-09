@@ -12,10 +12,10 @@ h1 {
         font-weight: bold;
 }
 
-img {
+img.center {
         display: block;
-        max-width:70%;
-        max-height:70%;
+        max-width:55%;
+        max-height:55%;
         width: auto;
         height: auto;
         text-align: center;
