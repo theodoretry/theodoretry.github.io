@@ -8,19 +8,26 @@ body {
         font-family: Garamond;
         color:#26c6da;  
         border-style: solid;
-        border-style: #78909c;
+        border-color: #78909c;
         padding: 25px;
         text-align: center;
+        font-variant: small-caps;
 }
 
 h1 {
+        font-size: 30px;
         font-weight: bold;
 }
 
 h2 {
         font-size: 25px;
-        font-variant: small-caps;
 }
 
+h3 {
+        font-family: Garamond;
+        color:#26c6da; 
+        font-variant: small-caps;
+        font-size: 20px; 
+}
 
 
