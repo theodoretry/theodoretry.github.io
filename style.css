@@ -30,4 +30,12 @@ h3 {
         font-size: 25px; 
 }
 
+p {
+        font-size: 20px;
+        font-family: Garamond;
+        color: #263238;
+        margin-left: 25%;
+        margin-right: 25%;
+}
+
 
