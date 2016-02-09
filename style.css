@@ -1,4 +1,4 @@
-/* A simple stylesheet */
+/* Stylesheet for bio.html and resume.html */
 
 body {
         background-color: #ffffff;
@@ -7,18 +7,19 @@ body {
 #header {
         font-family: Garamond;
         color:#26c6da;  
-}
-
-h1 {
         border-style: solid;
         border-style: #78909c;
         padding: 25px;
         text-align: center;
 }
 
+h1 {
+        font-weight: bold;
+}
+
 h2 {
-        padding: 25px;
-        text-align: center;
+        font-size: 25px;
+        font-variant: small-caps;
 }
 
 
