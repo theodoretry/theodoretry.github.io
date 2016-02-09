@@ -12,11 +12,6 @@ h1 {
         font-weight: bold;
 }
 
-#image {
-        position: absolute;
-        left: 50%;
-}
-
 img {
         display: block;
         max-width: 40%;
