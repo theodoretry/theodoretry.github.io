@@ -20,6 +20,7 @@ body {
 
 .keyinfo {
         font-weight: bold;
+        color:#78909c; 
 }
 
 h1 {
@@ -33,7 +34,7 @@ h2 {
 
 h3 {
         font-family: Garamond;
-        color:#78909c; 
+        color:#546e7a; 
         font-variant: small-caps;
         font-size: 25px; 
         margin-left: 5%;
