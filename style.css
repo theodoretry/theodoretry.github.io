@@ -1,41 +1,25 @@
 /* A simple stylesheet */
 
 body {
-        background-color: #ffff99;
-}
-
-h1 {
-        color:#ff69b4;
-        border-style: dashed;
-        padding: 25px;
+        background-color: #ffffff;
 }
 
 #header {
-        font-family: Helvetica;
+        font-family: Garamond;
+        color:#26c6da;  
+}
+
+h1 {
+        border-style: solid;
+        border-style: #78909c;
+        padding: 25px;
         text-align: center;
 }
 
-p {
-        font-size: 24px;
-        font-family: Georgia;
-        color: white;
-        background-color: #ff69b4;
-        margin-left: 25%;
-        margin-right: 25%;
+h2 {
+        padding: 25px;
+        text-align: center;
 }
 
-/* Lines 3 - 6 => a single rule */
-/* h1 is better known as a "selector" */
-/* text-align:center; is better known as a "declaration" */
-/* A declaration is a key-value pair */
 
-.peeps {
-        font-size:28px;
-        background: yellow;
-}
 
-p {
-        font-size: 10px;
-        color: blue;
-        border: dashed;
-}
