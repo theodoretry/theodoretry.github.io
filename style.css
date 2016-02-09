@@ -31,11 +31,18 @@ h3 {
 }
 
 p {
-        font-size: 20px;
+        font-size: 17px;
         font-family: Garamond;
         color: #263238;
-        margin-left: 25%;
-        margin-right: 25%;
+        margin-left: 5%;
+        margin-right: 5%;
 }
 
+ul {
+        font-size: 15px;
+        font-family: Garamond;
+        color: #263238;
+        margin-left: 5%;
+        margin-right: 5%;
+}
 
