@@ -9,7 +9,6 @@ body {
         color:#00acc1;  
         border-style: solid;
         border-color: #00acc1;
-        padding: 5px;
         text-align: center;
         font-variant: small-caps;
 }
@@ -55,6 +54,10 @@ ul {
         color: #263238;
         margin-left: 10%;
         margin-right: 10%;
+}
+
+#navbar {
+        padding-bottom: 20px;
 }
 
 #navbar ul {
